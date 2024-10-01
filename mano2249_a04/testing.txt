@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Ramina Manouchehri
+ID:      169042249
+Email:   mano2249@mylaurier.ca
+Version: 2022-10-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Please enter number of the day of the week: 1
+Monday
+
+Please enter number of the day of the week: 7
+Sunday
+
+Please enter number of the day of the week: 99
+Error
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Please enter the Air Quality Index: 256
+Very Unhealthy
+
+Please enter the Air Quality Index: -5
+Error
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Please enter the first number: -8
+Please enter the second number: 12
+Please enter the third number: 20
+240
+
+Please enter the first number: -5
+Please enter the second number: 0
+Please enter the third number: 9
+0
+-------------------------------------------------------
+t04 
+-------------------------------------------------------
+Please enter the first primary colour: red
+Please enter the second primary colour: green
+yellow
+
+Please enter the first primary colour: green
+Please enter the second primary colour: red
+yellow
+
+Please enter the first primary colour: blue
+Please enter the second primary colour: kipney
+Error
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Please enter number of the number: 7
+Ha
+
+Please enter number of the number: 21
+Yee Ha
+
+Please enter number of the number: -44
+Nada
+-------------------------------------------------------
